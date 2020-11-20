@@ -11,8 +11,11 @@ So if you include other species, line shape models, ..., please create a merge r
 Of course, parts of the code can be sublicensed to ensure copyright and proper citation.
 
 # Citing
-When using the code (or any part of it) for a publication, please cite:
-- Paper submitted to Journal of Raman Spectroscopy, currently under review.
+When using the code (or any part of it) for a publication, please cite the publication associated with this code (open access):
+```
+Greifenstein M, Dreizler A. MARSFT: Efficient fitting of CARS spectra using a library based genetic algorithm.
+J Raman Spectrosc. 2020. https://doi.org/10.1002/jrs.6046
+```
 
 # Usage
 Please check out the examples for some use-cases. Also check out marsft_gui for a nice GUI to play with some degrees of freedom to get an impression what they do to a CARS spectrum.
